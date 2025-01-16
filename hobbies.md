@@ -27,3 +27,9 @@ title: Hobbies
 <img src="/images/cat.JPG">
 </div>
 <br>
+
+# Resume
+<div>
+<img src="D:\github\wuhu1.github.io\wuhu.github.io\file\汤弘历的简历.pdf">
+</div>
+<br>here is my resume
